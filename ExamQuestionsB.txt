@@ -1,0 +1,8 @@
+1- DHCP is the abbreviation of:  A. Dynamic Host Control Protocol  B. Dynamic Host Configuration Protocol  C. Dynamic Hyper Control Protocol  D. Dynamic HyperConfiguration Protocol
+2- IPV4 Address is:  A. 8 bit  B. 16 bit  C. 32 bit  D. 64 bit
+3- DNS is the abbreviation of:  A. Dynamic Name System  B. Dynamic Network System  C. Domain Name System  D. Domain Network Service
+4- Router operates in which layer of OSI Reference Model?  A. Layer 1 (Physical Layer)  B. Layer 3 (Network Layer)  C. Layer 4 (Transport Layer)  D. Layer 7 (Application Layer)
+5- _______ provides a connection-oriented reliable service for sending messages:  A. TCP  B. IP  C. UDP  D. All of the above
+6- The last address of IP address represents:  A. Unicast address  B. Network address  C. Broadcast address  D. None of above
+7- How many layers are in the TCP/IP model?  A. 4 layers  B. 5 layers  C. 6 layers  D. 7 layers
+8- What is the minimum header size of an IP packet?  A. 16 bytes  B. 10 bytes  C. 20 bytes  D. 32 bytes
